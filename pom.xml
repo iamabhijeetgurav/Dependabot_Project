@@ -45,7 +45,7 @@
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
-			<version>11.0</version>
+			<version>23.0</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
 		<dependency>
